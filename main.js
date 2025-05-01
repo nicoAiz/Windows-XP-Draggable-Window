@@ -1,6 +1,6 @@
 // Test window
 const wins = [
-	createWindow('Test JS Window.png', '🤓', `
+	createWindow('Test JS Window', '🤓', `
 		<h1>Another window</h1>
 		<p>This window was created with JavaScript.</p>
 		<br>
